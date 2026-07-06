@@ -1,6 +1,0 @@
-__pycache__/
-.DS_Store
-assets/.DS_Store
-assets/templates/.DS_Store
-assets/fonts/*.ttf
-assets/fonts/*.otf
